@@ -23,7 +23,7 @@ const App = () => {
 {/* use the above template and create add your data */}
 
 
-     <UserProfile name="Aadhil" image= "/images/akshay.jpg">
+     <UserProfile name="Aadhil" image= "/images/aadhil.jpg">
         MCA 2nd year           
          </UserProfile>     
          
